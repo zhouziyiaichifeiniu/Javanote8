@@ -51,5 +51,23 @@ Instruction:
 
 ## Chapter2 Programming in the small 1: Names and Things
 
+### 2.1 The Basic Java Application
+
+nothing to note 
+
+### 2.2 Vabiables and the Primitive Types
+
+nothing to note
+
+### 2.3
+
+nothing to note
+
+### 2.4 Text Input and Text Output
+
+这jb英文教材看的很乏味
+
+此笔记终止
+
 
 
